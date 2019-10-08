@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\COOPFPS.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{98EAC571-D7BC-40A8-87D0-D3A10DAC8AF9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\COOPFPS.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\COOPFPSEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{608FB9DB-DE44-481F-86E1-BE16AA9C4919}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{F9724473-C55D-4A4D-A0A5-FF79E5DA151F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{3FCC6674-FA48-4615-9E33-FCED920778EA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{D3213D23-9BB2-4DED-B425-4F5FACA3E36C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{D4F9E130-5CC9-42D9-A9CE-AA2035D982DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{E612378D-6DEC-4EDF-A194-3D0A62FBBE9E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{46B838F1-0072-4FB1-82D4-6B6EF0D9E0FD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{2F019159-405A-4797-981B-62D1C65F63E1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{5A352343-800E-430D-A936-230E7B0C4181}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\COOPFPS">
+      <UniqueIdentifier>{942F1252-47D1-4184-B369-60A0DF89DDC3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\COOPFPS\COOPFPS.Build.cs">
+      <Filter>Source\COOPFPS</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\COOPFPS\COOPFPS.cpp">
+      <Filter>Source\COOPFPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\COOPFPS\COOPFPS.h">
+      <Filter>Source\COOPFPS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\COOPFPS\COOPFPSGameModeBase.cpp">
+      <Filter>Source\COOPFPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\COOPFPS\COOPFPSGameModeBase.h">
+      <Filter>Source\COOPFPS</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\COOPFPS\Public">
+      <UniqueIdentifier>{fd01d136-fc11-4df5-807d-6a3045574d8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\COOPFPS\Private">
+      <UniqueIdentifier>{7fb78f44-a574-45ad-96b2-4038e7f4a344}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\COOPFPS\Public\SCharacter.h">
+      <Filter>Source\COOPFPS\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\COOPFPS\Private\SCharacter.cpp">
+      <Filter>Source\COOPFPS\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

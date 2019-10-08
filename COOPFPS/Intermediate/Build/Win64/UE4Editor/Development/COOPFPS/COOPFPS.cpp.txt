@@ -1,0 +1,2 @@
+E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Intermediate\Build\Win64\UE4Editor\Development\COOPFPS\Definitions.COOPFPS.h
+e:\unreal4\co-op-fps-game\coopfps\source\coopfps\COOPFPS.h
