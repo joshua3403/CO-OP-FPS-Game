@@ -587,3 +587,150 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.08-07.49.44:578][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
 [2019.10.08-07.49.44:588][633]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2866 classes and 685 folders.
 [2019.10.08-07.49.44:595][633]Display: HotReload took  0.2s.
+[2019.10.08-07.55.36:249][687]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.08-07.55.36:249][687]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.08-07.55.37:239][756]Candidate modules for hot reload:
+[2019.10.08-07.55.37:239][756]  COOPFPS
+[2019.10.08-07.55.37:239][756]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COOPFPS,4183 Win64 Development -TargetType=Editor -Project="E:/Unreal4/CO-OP-FPS-Game/COOPFPS/COOPFPS.uproject" "E:/Unreal4/CO-OP-FPS-Game/COOPFPS/COOPFPS.uproject"  -IgnoreJunk]
+[2019.10.08-07.55.37:253][756]Warning: Starting HotReload took  0.0s.
+[2019.10.08-07.56.23:264][136]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.08-07.56.24:538][249]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.08-07.56.32:604][184]CompilerResultsLog: New page: Compilation - Oct 9, 2019, 1:56:32 AM
+[2019.10.08-07.56.32:605][184]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal4\CO-OP-FPS-Game).
+[2019.10.08-07.56.32:605][184]CompilerResultsLog: Parsing headers for COOPFPSEditor
+[2019.10.08-07.56.32:605][184]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal4\CO-OP-FPS-Game\COOPFPS\COOPFPS.uproject" "E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Intermediate\Build\Win64\COOPFPSEditor\Development\COOPFPSEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.08-07.56.32:605][184]CompilerResultsLog: Reflection code generated for COOPFPSEditor in 8.1666619 seconds
+[2019.10.08-07.56.32:605][184]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.10.08-07.56.32:605][184]CompilerResultsLog: Building 5 actions with 16 processes...
+[2019.10.08-07.56.32:605][184]CompilerResultsLog:   [1/5] SCharacter.cpp
+[2019.10.08-07.56.32:605][184]CompilerResultsLog:    E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Source\COOPFPS\Private\SCharacter.cpp(45) : error C2039: 'MoveForward': 'ASCharacter'?? ?????? ?ƴմϴ?.
+[2019.10.08-07.56.32:605][184]CompilerResultsLog:   E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Source\COOPFPS\Public\SCharacter.h(10): note: 'ASCharacter' ?????? ?????Ͻʽÿ?.
+[2019.10.08-07.56.32:605][184]CompilerResultsLog:    E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Source\COOPFPS\Private\SCharacter.cpp(45) : error C2065: 'MoveForward': ???????? ???? ?ĺ????Դϴ?.
+[2019.10.08-07.56.32:605][184]CompilerResultsLog:   [2/5] SCharacter.gen.cpp
+[2019.10.08-07.56.32:605][184]LogMainFrame: MainFrame: Module compiling took 55.369 seconds
+[2019.10.08-07.56.32:605][184]Warning: HotReload failed, recompile failed
+[2019.10.08-07.56.34:276][371]LogSlate: Took 0.013852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.10.08-07.56.34:277][371]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ƴ (U+01b4)'
+[2019.10.08-07.56.34:294][371]LogSlate: Took 0.016307 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.10.08-07.57.21:170][996]LogSlate: Window 'Message Log' being destroyed
+[2019.10.08-07.57.21:215][996]LogSlate: Window 'Message Log' being destroyed
+[2019.10.08-07.57.22:558][146]Candidate modules for hot reload:
+[2019.10.08-07.57.22:558][146]  COOPFPS
+[2019.10.08-07.57.22:558][146]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COOPFPS,3119 Win64 Development -TargetType=Editor -Project="E:/Unreal4/CO-OP-FPS-Game/COOPFPS/COOPFPS.uproject" "E:/Unreal4/CO-OP-FPS-Game/COOPFPS/COOPFPS.uproject"  -IgnoreJunk]
+[2019.10.08-07.57.22:567][146]Warning: Starting HotReload took  0.0s.
+[2019.10.08-07.57.27:052][635]LogHttp: Warning: 000001C3F1E29D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B266EF8A8-4F97-53A3-00BE-43B4031D2A0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0971a47140f89bf026ca1394a3e4c6a3%7Ce9a42ce074144d02a46e1c0970b33066%7C414a5a5e-b649-4708-b3ef-9c0bd5a330da&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-07.57.27:052][635]LogHttp: Warning: 000001C3F1E29D00: request failed, libcurl error: 0 (No error)
+[2019.10.08-07.57.27:052][635]LogHttp: Warning: 000001C3F1E29D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c3f38d7f70 [can pipeline])
+[2019.10.08-07.57.27:052][635]LogHttp: Warning: 000001C3F1E29D00: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2019.10.08-07.57.27:052][635]LogHttp: Warning: 000001C3F1E29D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.232.220.76) port 443 (#3))
+[2019.10.08-07.57.27:052][635]LogHttp: Warning: 000001C3F1E29D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.08-07.57.27:052][635]LogHttp: Warning: 000001C3F1E29D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.08-07.57.27:052][635]LogHttp: Warning: 000001C3F1E29D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.08-07.57.27:052][635]LogHttp: Warning: 000001C3F1E29D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.08-07.57.27:052][635]LogHttp: Warning: 000001C3F1E29D00: libcurl info message cache 7 (Closing connection 3)
+[2019.10.08-07.57.27:052][635]LogHttp: Warning: 000001C3F1E29D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.08-07.57.27:060][636]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B266EF8A8-4F97-53A3-00BE-43B4031D2A0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0971a47140f89bf026ca1394a3e4c6a3%7Ce9a42ce074144d02a46e1c0970b33066%7C414a5a5e-b649-4708-b3ef-9c0bd5a330da&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-07.57.32:090][236]CompilerResultsLog: New page: Compilation - Oct 9, 2019, 1:57:32 AM
+[2019.10.08-07.57.32:090][236]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal4\CO-OP-FPS-Game).
+[2019.10.08-07.57.32:090][236]CompilerResultsLog: Parsing headers for COOPFPSEditor
+[2019.10.08-07.57.32:090][236]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal4\CO-OP-FPS-Game\COOPFPS\COOPFPS.uproject" "E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Intermediate\Build\Win64\COOPFPSEditor\Development\COOPFPSEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.08-07.57.32:090][236]CompilerResultsLog: Reflection code generated for COOPFPSEditor in 6.095192 seconds
+[2019.10.08-07.57.32:090][236]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.10.08-07.57.32:090][236]CompilerResultsLog: Building 5 actions with 16 processes...
+[2019.10.08-07.57.32:090][236]CompilerResultsLog:   [1/5] SCharacter.gen.cpp
+[2019.10.08-07.57.32:090][236]CompilerResultsLog:   [2/5] SCharacter.cpp
+[2019.10.08-07.57.32:090][236]CompilerResultsLog:   [3/5] UE4Editor-COOPFPS-3119.lib
+[2019.10.08-07.57.32:090][236]CompilerResultsLog:      E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Intermediate\Build\Win64\UE4Editor\Development\COOPFPS\UE4Editor-COOPFPS-3119.lib ???̺귯?? ?? E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Intermediate\Build\Win64\UE4Editor\Development\COOPFPS\UE4Editor-COOPFPS-3119.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2019.10.08-07.57.32:090][236]CompilerResultsLog:   [4/5] UE4Editor-COOPFPS-3119.dll
+[2019.10.08-07.57.32:090][236]CompilerResultsLog:      E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Intermediate\Build\Win64\UE4Editor\Development\COOPFPS\UE4Editor-COOPFPS-3119.suppressed.lib ???̺귯?? ?? E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Intermediate\Build\Win64\UE4Editor\Development\COOPFPS\UE4Editor-COOPFPS-3119.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2019.10.08-07.57.32:090][236]CompilerResultsLog:   [5/5] COOPFPSEditor.target
+[2019.10.08-07.57.32:090][236]CompilerResultsLog: Total time in Parallel executor: 2.36 seconds
+[2019.10.08-07.57.32:090][236]CompilerResultsLog: Total execution time: 9.44 seconds
+[2019.10.08-07.57.32:090][236]LogMainFrame: MainFrame: Module compiling took 9.535 seconds
+[2019.10.08-07.57.32:126][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.10.08-07.57.32:149][236]LogContentBrowser: Native class hierarchy updated for 'COOPFPS' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2019.10.08-07.57.32:153][236]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.10.08-07.57.32:220][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.08-07.57.32:230][236]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2866 classes and 685 folders.
+[2019.10.08-07.57.32:234][236]Display: HotReload took  9.7s.
+[2019.10.08-07.59.15:030][275]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.08-07.59.38:116][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.10.08-07.59.38:117][853]LogMetaData: Removing '/Game/Blueprints/PlayerPawn.PlayerPawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Character.PackageMetaData'
+[2019.10.08-07.59.38:117][853]LogMetaData: Removing '/Game/Blueprints/PlayerPawn.SKEL_PlayerPawn_C' ref from Metadata '/Game/Blueprints/BP_Character.PackageMetaData'
+[2019.10.08-07.59.38:117][853]LogMetaData: Removing '/Game/Blueprints/PlayerPawn.PlayerPawn_C' ref from Metadata '/Game/Blueprints/BP_Character.PackageMetaData'
+[2019.10.08-07.59.38:117][853]LogMetaData: Removing '/Game/Blueprints/PlayerPawn.PlayerPawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Character.PackageMetaData'
+[2019.10.08-07.59.38:117][853]LogMetaData: Removing '/Game/Blueprints/PlayerPawn.PlayerPawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Character.PackageMetaData'
+[2019.10.08-07.59.38:117][853]LogMetaData: Removing '/Game/Blueprints/PlayerPawn.PlayerPawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_Character.PackageMetaData'
+[2019.10.08-07.59.38:223][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerPawn" FILE="E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Blueprints/PlayerPawn.uasset" SILENT=true
+[2019.10.08-07.59.38:244][853]LogSavePackage: Moving 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Saved/PlayerPawn18348D804677DF82E81BF9AA2BFF3DBA.tmp' to 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Blueprints/PlayerPawn.uasset'
+[2019.10.08-07.59.38:519][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.10.08-07.59.38:597][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.08-07.59.38:633][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.08-08.00.27:453][608]Cmd: DELETE
+[2019.10.08-08.00.27:453][608]Cmd: ACTOR DELETE
+[2019.10.08-08.00.27:463][608]LogEditorActor: Deleted Actor: PlayerStart
+[2019.10.08-08.00.27:502][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.08-08.00.27:502][608]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.10.08-08.00.30:530][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-08.00.51:540][413]LogSlate: Took 0.001011 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.08-08.00.56:464][413]LogSlate: Window 'Save Level As' being destroyed
+[2019.10.08-08.01.27:566][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerPawn" FILE="E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Blueprints/PlayerPawn.uasset" SILENT=true
+[2019.10.08-08.01.27:575][743]LogSavePackage: Moving 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Saved/PlayerPawn363E77A540931234FC7DC6BF932E4587.tmp' to 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Blueprints/PlayerPawn.uasset'
+[2019.10.08-08.03.22:412][821]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-08.03.22:421][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.08-08.03.22:421][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.08-08.03.22:422][821]PIE: New page: PIE session: Untitled_1 (Oct 9, 2019, 2:03:22 AM)
+[2019.10.08-08.03.22:426][821]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.08-08.03.22:427][821]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.08-08.03.22:430][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003026s)
+[2019.10.08-08.03.22:432][821]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.08-08.03.22:433][821]LogPlayLevel: PIE: World Init took: (0.002015s)
+[2019.10.08-08.03.22:433][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005311s)
+[2019.10.08-08.03.22:465][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.10.08-08.03.22:489][821]LogInit: XAudio2 using '헤드셋 이어폰(Corsair VOID PRO Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.08-08.03.22:645][821]LogInit: FAudioDevice initialized.
+[2019.10.08-08.03.22:657][821]LogLoad: Game class is 'GameModeBase'
+[2019.10.08-08.03.22:662][821]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.08-17.03.22
+[2019.10.08-08.03.22:665][821]LogWorld: Bringing up level for play took: 0.003035
+[2019.10.08-08.03.22:665][821]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.10.08-08.03.22:703][821]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.10.08-08.03.22:706][821]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.311
+[2019.10.08-08.03.22:706][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.08-08.03.28:700][537]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.08-08.03.28:701][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-08.03.28:701][537]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.10.08-08.03.28:701][537]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-08.03.28:710][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-08.03.28:711][537]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.08-08.03.28:754][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-08.03.28:758][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.08-08.03.28:805][539]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.10.08-08.03.35:794][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-08.03.38:109][832]LogSlate: Window 'Save Level As' being destroyed
+[2019.10.08-08.03.38:247][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.10.08-08.03.38:249][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.08-08.03.38:287][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.10.08-08.03.38:397][832]LogSavePackage: Moving 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Saved/NewMap3B5E906E4CE02A73F2B2258B532B6BF5.tmp' to 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/NewMap.umap'
+[2019.10.08-08.03.38:407][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/NewMap_BuiltData.uasset" SILENT=true
+[2019.10.08-08.03.38:417][832]LogSavePackage: Moving 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Saved/NewMap_BuiltData8804C9054088226111321FA944B5EB2E.tmp' to 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/NewMap_BuiltData.uasset'
+[2019.10.08-08.03.38:464][832]LogFileHelpers: Saving map 'NewMap' took 0.309
+[2019.10.08-08.03.58:020][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.10.08-08.03.58:020][ 91]LogMetaData: Removing '/Game/Maps/NewMap.SKEL_NewMap_C' ref from Metadata '/Game/NewMap.PackageMetaData'
+[2019.10.08-08.03.58:020][ 91]LogMetaData: Removing '/Game/Maps/NewMap.NewMap_C' ref from Metadata '/Game/NewMap.PackageMetaData'
+[2019.10.08-08.03.58:020][ 91]LogMetaData: Removing '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewMap.PackageMetaData'
+[2019.10.08-08.03.58:020][ 91]LogMetaData: Removing '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_Event_1' ref from Metadata '/Game/NewMap.PackageMetaData'
+[2019.10.08-08.03.58:118][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2019.10.08-08.03.58:127][ 91]LogSavePackage: Moving 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Saved/NewMap_BuiltData4A1CBFCE40B62D5E1380FAB4EBF11277.tmp' to 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Maps/NewMap_BuiltData.uasset'
+[2019.10.08-08.03.58:131][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.08-08.03.58:167][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.08-08.03.58:267][ 91]LogSavePackage: Moving 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Saved/NewMap6886D2164B3884615D6A30BEA4873C27.tmp' to 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Maps/NewMap.umap'
+[2019.10.08-08.03.58:275][ 91]LogFileHelpers: Saving map 'NewMap' took 0.145
+[2019.10.08-08.03.58:587][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.10.08-08.03.58:622][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.08-08.03.58:702][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.10.08-08.03.58:736][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.08-08.04.00:654][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.08-08.04.00:689][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.10.08-08.04.00:792][309]LogSavePackage: Moving 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Saved/NewMapFAEF3EA84FF7E89700ABD8842928F26B.tmp' to 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Maps/NewMap.umap'
+[2019.10.08-08.04.00:802][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2019.10.08-08.04.00:811][309]LogSavePackage: Moving 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Saved/NewMap_BuiltDataB9E7C24942ED4A9AAD916691243EED93.tmp' to 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Maps/NewMap_BuiltData.uasset'
