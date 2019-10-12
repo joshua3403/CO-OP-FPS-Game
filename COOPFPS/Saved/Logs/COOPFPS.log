@@ -732,3 +732,172 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.12-05.41.29:577][476]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
 [2019.10.12-05.41.29:581][476]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap -0.152
 [2019.10.12-05.41.29:581][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2019.10.12-06.00.46:541][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.00.49:194][472]LogTexture: Display: Building textures: T_Crosshair_Scanline_M (AutoDXT, 512X512)
+[2019.10.12-06.00.49:195][472]LogTexture: Display: Building textures: T_Crosshair_Horizontal_M (AutoDXT, 512X512)
+[2019.10.12-06.00.49:195][472]LogTexture: Display: Building textures: MagGun_01_N (BC5, 1024X1024)
+[2019.10.12-06.00.49:195][472]LogTexture: Display: Building textures: MagGun_02_N (BC5, 1024X1024)
+[2019.10.12-06.00.49:195][472]LogMaterial: Display: Missing cached shader map for material M_Weapon01, compiling. 
+[2019.10.12-06.00.49:229][472]LogMaterial: Display: Missing cached shader map for material M_Crosshairs_MultiHolo_Scanline, compiling. 
+[2019.10.12-06.00.49:256][472]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 60
+[2019.10.12-06.00.49:256][472]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 54
+[2019.10.12-06.00.49:256][472]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 48
+[2019.10.12-06.00.49:256][472]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 42
+[2019.10.12-06.00.49:256][472]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 36
+[2019.10.12-06.00.49:256][472]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 30
+[2019.10.12-06.00.49:256][472]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 24
+[2019.10.12-06.00.49:256][472]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 18
+[2019.10.12-06.00.49:256][472]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2019.10.12-06.00.49:256][472]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2019.10.12-06.00.49:256][472]LogSkeletalMesh: Building Skeletal Mesh SK_Rifle...
+[2019.10.12-06.00.49:280][472]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Weapons/SK_Rifle.SK_Rifle
+[2019.10.12-06.00.49:296][472]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Weapons/SK_Rifle.SK_Rifle
+[2019.10.12-06.00.49:304][472]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.12-06.00.49:470][472]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 54
+[2019.10.12-06.00.49:470][472]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 49
+[2019.10.12-06.00.52:282][512]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 44
+[2019.10.12-06.00.52:291][512]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 40
+[2019.10.12-06.00.52:871][524]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 36
+[2019.10.12-06.00.53:029][528]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 32
+[2019.10.12-06.00.53:262][533]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2019.10.12-06.00.53:428][537]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 26
+[2019.10.12-06.00.54:008][547]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 23
+[2019.10.12-06.00.54:009][547]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2019.10.12-06.00.54:369][553]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2019.10.12-06.00.54:380][553]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 17
+[2019.10.12-06.00.54:478][554]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2019.10.12-06.00.54:871][561]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2019.10.12-06.00.55:141][565]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2019.10.12-06.00.55:189][566]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2019.10.12-06.00.55:418][570]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.10.12-06.00.55:518][572]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2019.10.12-06.00.55:536][572]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2019.10.12-06.00.55:536][572]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2019.10.12-06.00.55:570][573]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2019.10.12-06.00.55:611][574]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2019.10.12-06.00.55:644][575]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2019.10.12-06.00.55:659][575]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2019.10.12-06.00.55:766][578]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2019.10.12-06.02.06:084][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.02.06:144][957]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-06.02.06:888][ 26]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-06.02.11:657][377]LogTexture: Display: Building textures: Launcher_02_N (BC5, 4096X4096)
+[2019.10.12-06.02.11:657][377]LogTexture: Display: Building textures: Launcher_01_N (BC5, 4096X4096)
+[2019.10.12-06.02.11:657][377]LogSkeletalMesh: Building Skeletal Mesh Launcher...
+[2019.10.12-06.02.11:710][377]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Weapons/Launcher.Launcher
+[2019.10.12-06.02.11:715][377]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Weapons/Launcher.Launcher
+[2019.10.12-06.02.11:722][377]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.12-06.02.39:219][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2019.10.12-06.02.39:220][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-06.02.39:221][144]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_P_TestMap
+[2019.10.12-06.02.39:222][144]LogWorld: UWorld::CleanupWorld for P_TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-06.02.39:235][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-06.02.39:236][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2019.10.12-06.02.39:284][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-06.02.39:295][144]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2019.10.12-06.02.39:325][147]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.12-06.02.42:452][486]LogHttp: Warning: 000001FB1F322AC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B577469B1-47E9-B66F-B4EF-C1B9FCB0C22C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0971a47140f89bf026ca1394a3e4c6a3%7Ce9a42ce074144d02a46e1c0970b33066%7C414a5a5e-b649-4708-b3ef-9c0bd5a330da&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.12-06.02.42:452][486]LogHttp: Warning: 000001FB1F322AC0: request failed, libcurl error: 0 (No error)
+[2019.10.12-06.02.42:452][486]LogHttp: Warning: 000001FB1F322AC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fa9e1aff70 [can pipeline])
+[2019.10.12-06.02.42:452][486]LogHttp: Warning: 000001FB1F322AC0: libcurl info message cache 1 (Re-using existing connection! (#15) with host datarouter.ol.epicgames.com)
+[2019.10.12-06.02.42:452][486]LogHttp: Warning: 000001FB1F322AC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.208.92.41) port 443 (#15))
+[2019.10.12-06.02.42:452][486]LogHttp: Warning: 000001FB1F322AC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.12-06.02.42:452][486]LogHttp: Warning: 000001FB1F322AC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.12-06.02.42:452][486]LogHttp: Warning: 000001FB1F322AC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.12-06.02.42:453][486]LogHttp: Warning: 000001FB1F322AC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.12-06.02.42:453][486]LogHttp: Warning: 000001FB1F322AC0: libcurl info message cache 7 (Closing connection 15)
+[2019.10.12-06.02.42:453][486]LogHttp: Warning: 000001FB1F322AC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.12-06.02.42:453][486]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B577469B1-47E9-B66F-B4EF-C1B9FCB0C22C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0971a47140f89bf026ca1394a3e4c6a3%7Ce9a42ce074144d02a46e1c0970b33066%7C414a5a5e-b649-4708-b3ef-9c0bd5a330da&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.12-06.02.44:010][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rifle" FILE="E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Blueprints/BP_Rifle.uasset" SILENT=true
+[2019.10.12-06.02.44:024][638]LogSavePackage: Moving 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Saved/BP_Rifle9978BA3342B287F895DFB09C0AD276C5.tmp' to 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/Blueprints/BP_Rifle.uasset'
+[2019.10.12-06.03.16:113][ 10]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.10.12-06.03.16:121][ 10]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.12-06.03.16:135][ 10]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.12-06.03.38:795][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.03.47:078][634]LogSlate: Took 0.000725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.12-06.04.45:604][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.04.45:712][819]Cmd: MODE GRID=0
+[2019.10.12-06.04.46:958][967]Cmd: MODE GRID=1
+[2019.10.12-06.04.47:746][ 61]Cmd: MODE GRID=0
+[2019.10.12-06.05.34:731][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.05.43:277][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.05.46:291][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.05.46:433][186]LogSavePackage: Moving 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Saved/UE4_Mannequin_Skeleton3B4F3B0B49D1C768AE49D980BAD0E2AA.tmp' to 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.10.12-06.05.47:702][316]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-06.05.47:714][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2019.10.12-06.05.47:714][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-06.05.47:715][316]PIE: New page: PIE session: P_TestMap (Oct 13, 2019, 12:05:47 AM)
+[2019.10.12-06.05.47:715][316]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2019.10.12-06.05.47:717][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002651s)
+[2019.10.12-06.05.47:718][316]LogAIModule: Creating AISystem for world P_TestMap
+[2019.10.12-06.05.47:719][316]LogPlayLevel: PIE: World Init took: (0.001614s)
+[2019.10.12-06.05.47:719][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.004416s)
+[2019.10.12-06.05.47:762][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.10.12-06.05.47:775][316]LogInit: XAudio2 using '헤드셋 이어폰(Corsair VOID PRO Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-06.05.47:929][316]LogInit: FAudioDevice initialized.
+[2019.10.12-06.05.47:940][316]LogLoad: Game class is 'GameModeBase'
+[2019.10.12-06.05.47:941][316]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2019.10.12-15.05.47
+[2019.10.12-06.05.47:941][316]LogWorld: Bringing up level for play took: 0.001097
+[2019.10.12-06.05.47:941][316]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.10.12-06.05.47:943][316]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap 0.211
+[2019.10.12-06.05.47:943][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2019.10.12-06.06.07:574][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.06.14:769][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.06.17:867][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.06.23:532][502]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2019.10.12-06.06.23:533][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-06.06.23:533][502]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_P_TestMap
+[2019.10.12-06.06.23:534][502]LogWorld: UWorld::CleanupWorld for P_TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-06.06.23:547][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-06.06.23:547][502]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2019.10.12-06.06.23:596][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-06.06.23:600][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.10.12-06.06.23:640][506]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.12-06.06.27:361][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.06.32:407][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.06.39:423][187]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-06.06.39:474][187]LogSavePackage: Moving 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Saved/UE4_Mannequin_Skeleton3FB9B0774A769056C0DB9DBFE805FEB9.tmp' to 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.10.12-06.06.40:107][249]LogSavePackage: Moving 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Saved/UE4_Mannequin_Skeleton67B7F0DD43B9948430FE858DB2A5A459.tmp' to 'E:/Unreal4/CO-OP-FPS-Game/COOPFPS/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.10.12-06.06.41:346][374]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-06.06.41:358][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2019.10.12-06.06.41:358][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-06.06.41:358][374]PIE: New page: PIE session: P_TestMap (Oct 13, 2019, 12:06:41 AM)
+[2019.10.12-06.06.41:358][374]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2019.10.12-06.06.41:360][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002455s)
+[2019.10.12-06.06.41:361][374]LogAIModule: Creating AISystem for world P_TestMap
+[2019.10.12-06.06.41:362][374]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2019.10.12-06.06.41:362][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.003840s)
+[2019.10.12-06.06.41:399][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.10.12-06.06.41:412][374]LogInit: XAudio2 using '헤드셋 이어폰(Corsair VOID PRO Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-06.06.41:557][374]LogInit: FAudioDevice initialized.
+[2019.10.12-06.06.41:562][374]LogLoad: Game class is 'GameModeBase'
+[2019.10.12-06.06.41:564][374]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2019.10.12-15.06.41
+[2019.10.12-06.06.41:564][374]LogWorld: Bringing up level for play took: 0.001074
+[2019.10.12-06.06.41:564][374]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.10.12-06.06.41:566][374]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap -0.167
+[2019.10.12-06.06.41:566][374]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2019.10.12-06.06.52:404][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.06.55:543][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.06.58:538][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.09.42:668][800]LogHttp: Warning: 000001FA937F07C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B577469B1-47E9-B66F-B4EF-C1B9FCB0C22C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0971a47140f89bf026ca1394a3e4c6a3%7Ce9a42ce074144d02a46e1c0970b33066%7C414a5a5e-b649-4708-b3ef-9c0bd5a330da&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.12-06.09.42:668][800]LogHttp: Warning: 000001FA937F07C0: request failed, libcurl error: 0 (No error)
+[2019.10.12-06.09.42:668][800]LogHttp: Warning: 000001FA937F07C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fa9e1aff70 [can pipeline])
+[2019.10.12-06.09.42:668][800]LogHttp: Warning: 000001FA937F07C0: libcurl info message cache 1 (Re-using existing connection! (#17) with host datarouter.ol.epicgames.com)
+[2019.10.12-06.09.42:668][800]LogHttp: Warning: 000001FA937F07C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.80.69.247) port 443 (#17))
+[2019.10.12-06.09.42:668][800]LogHttp: Warning: 000001FA937F07C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.12-06.09.42:668][800]LogHttp: Warning: 000001FA937F07C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.12-06.09.42:668][800]LogHttp: Warning: 000001FA937F07C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.12-06.09.42:668][800]LogHttp: Warning: 000001FA937F07C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.12-06.09.42:668][800]LogHttp: Warning: 000001FA937F07C0: libcurl info message cache 7 (Closing connection 17)
+[2019.10.12-06.09.42:668][800]LogHttp: Warning: 000001FA937F07C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.12-06.09.42:668][800]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B577469B1-47E9-B66F-B4EF-C1B9FCB0C22C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0971a47140f89bf026ca1394a3e4c6a3%7Ce9a42ce074144d02a46e1c0970b33066%7C414a5a5e-b649-4708-b3ef-9c0bd5a330da&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.12-06.11.33:930][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-06.11.34:006][635]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2019.10.12-06.11.34:006][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-06.11.34:006][635]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_P_TestMap
+[2019.10.12-06.11.34:007][635]LogWorld: UWorld::CleanupWorld for P_TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-06.11.34:017][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-06.11.34:017][635]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2019.10.12-06.11.34:063][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-06.11.34:068][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.10.12-06.11.34:107][639]LogPlayLevel: Display: Destroying online subsystem :Context_20
