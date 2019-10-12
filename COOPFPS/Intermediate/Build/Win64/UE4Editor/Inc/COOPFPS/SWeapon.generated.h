@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define COOPFPS_SWeapon_generated_h
 
-#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_RPC_WRAPPERS \
+#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execFire) \
 	{ \
@@ -24,7 +24,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execFire) \
 	{ \
@@ -35,7 +35,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_INCLASS_NO_PURE_DECLS \
+#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASWeapon(); \
 	friend struct Z_Construct_UClass_ASWeapon_Statics; \
@@ -44,7 +44,7 @@ public: \
 	DECLARE_SERIALIZER(ASWeapon)
 
 
-#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_INCLASS \
+#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesASWeapon(); \
 	friend struct Z_Construct_UClass_ASWeapon_Statics; \
@@ -53,7 +53,7 @@ public: \
 	DECLARE_SERIALIZER(ASWeapon)
 
 
-#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_STANDARD_CONSTRUCTORS \
+#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ASWeapon(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASWeapon) \
@@ -66,7 +66,7 @@ private: \
 public:
 
 
-#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_ENHANCED_CONSTRUCTORS \
+#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ASWeapon(ASWeapon&&); \
@@ -77,29 +77,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASWeapon); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ASWeapon)
 
 
-#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__MeshComp() { return STRUCT_OFFSET(ASWeapon, MeshComp); }
+#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__MeshComp() { return STRUCT_OFFSET(ASWeapon, MeshComp); } \
+	FORCEINLINE static uint32 __PPO__DamageType() { return STRUCT_OFFSET(ASWeapon, DamageType); }
 
 
-#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_11_PROLOG
-#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_GENERATED_BODY_LEGACY \
+#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_12_PROLOG
+#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_PRIVATE_PROPERTY_OFFSET \
-	COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_RPC_WRAPPERS \
-	COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_INCLASS \
-	COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_STANDARD_CONSTRUCTORS \
+	COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_PRIVATE_PROPERTY_OFFSET \
+	COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_RPC_WRAPPERS \
+	COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_INCLASS \
+	COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_GENERATED_BODY \
+#define COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_PRIVATE_PROPERTY_OFFSET \
-	COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_INCLASS_NO_PURE_DECLS \
-	COOPFPS_Source_COOPFPS_Public_SWeapon_h_14_ENHANCED_CONSTRUCTORS \
+	COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_PRIVATE_PROPERTY_OFFSET \
+	COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_INCLASS_NO_PURE_DECLS \
+	COOPFPS_Source_COOPFPS_Public_SWeapon_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

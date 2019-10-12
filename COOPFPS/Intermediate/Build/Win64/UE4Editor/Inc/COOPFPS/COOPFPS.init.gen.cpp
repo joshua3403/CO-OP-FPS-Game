@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeCOOPFPS_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x727756AE,
+				0x657486D3,
 				0x9C00CE9B,
 				METADATA_PARAMS(nullptr, 0)
 			};
