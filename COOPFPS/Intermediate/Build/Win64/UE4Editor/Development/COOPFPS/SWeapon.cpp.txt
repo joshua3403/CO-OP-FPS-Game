@@ -1,3 +1,4 @@
 E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Intermediate\Build\Win64\UE4Editor\Development\COOPFPS\Definitions.COOPFPS.h
 E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Source\COOPFPS\Public\SWeapon.h
 E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Intermediate\Build\Win64\UE4Editor\Inc\COOPFPS\SWeapon.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
