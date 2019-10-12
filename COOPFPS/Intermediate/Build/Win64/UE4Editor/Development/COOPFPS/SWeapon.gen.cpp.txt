@@ -1,0 +1,5 @@
+E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Intermediate\Build\Win64\UE4Editor\Development\COOPFPS\Definitions.COOPFPS.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Unreal4\CO-OP-FPS-Game\COOPFPS\Source\COOPFPS/Public/SWeapon.h
+e:\unreal4\co-op-fps-game\coopfps\intermediate\build\win64\ue4editor\inc\coopfps\SWeapon.generated.h

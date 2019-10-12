@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\COOPFPS.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{98EAC571-D7BC-40A8-87D0-D3A10DAC8AF9}</UniqueIdentifier>
+      <UniqueIdentifier>{B604318F-F327-48F6-B053-BF1535B2EA9D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\COOPFPS.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{608FB9DB-DE44-481F-86E1-BE16AA9C4919}</UniqueIdentifier>
+      <UniqueIdentifier>{091B1D4E-8162-4AA9-AF8C-8B75BF4A289E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,56 +23,59 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Config\Android">
-      <UniqueIdentifier>{F9724473-C55D-4A4D-A0A5-FF79E5DA151F}</UniqueIdentifier>
+      <UniqueIdentifier>{CB85E3DA-2121-4F7D-B262-199D21E16A0B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Android\AndroidEngine.ini">
       <Filter>Config\Android</Filter>
     </None>
     <Filter Include="Config\IOS">
-      <UniqueIdentifier>{3FCC6674-FA48-4615-9E33-FCED920778EA}</UniqueIdentifier>
+      <UniqueIdentifier>{F7F4DAAA-C07B-4B55-8DB9-8C8C6AD2F0FF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\IOS\IOSEngine.ini">
       <Filter>Config\IOS</Filter>
     </None>
     <Filter Include="Config\Linux">
-      <UniqueIdentifier>{D3213D23-9BB2-4DED-B425-4F5FACA3E36C}</UniqueIdentifier>
+      <UniqueIdentifier>{A10A820E-D12F-4358-8E34-3D80463ED90B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Linux\LinuxEngine.ini">
       <Filter>Config\Linux</Filter>
     </None>
     <Filter Include="Config\Mac">
-      <UniqueIdentifier>{D4F9E130-5CC9-42D9-A9CE-AA2035D982DC}</UniqueIdentifier>
+      <UniqueIdentifier>{C26F7770-5864-4170-97D6-E3C9FCA4BA1B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Mac\MacEngine.ini">
       <Filter>Config\Mac</Filter>
     </None>
     <Filter Include="Config\PS4">
-      <UniqueIdentifier>{E612378D-6DEC-4EDF-A194-3D0A62FBBE9E}</UniqueIdentifier>
+      <UniqueIdentifier>{035373B2-54CE-4F1B-B9F8-EC1C00FE9FAD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\PS4\PS4Engine.ini">
       <Filter>Config\PS4</Filter>
     </None>
     <Filter Include="Config\Switch">
-      <UniqueIdentifier>{46B838F1-0072-4FB1-82D4-6B6EF0D9E0FD}</UniqueIdentifier>
+      <UniqueIdentifier>{4D50C7C8-86EC-416A-8CA8-3D02D3E8810C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Switch\SwitchEngine.ini">
       <Filter>Config\Switch</Filter>
     </None>
     <Filter Include="Config\Windows">
-      <UniqueIdentifier>{2F019159-405A-4797-981B-62D1C65F63E1}</UniqueIdentifier>
+      <UniqueIdentifier>{967DDB21-8336-4C24-87FA-6B64745B2698}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Windows\WindowsEngine.ini">
       <Filter>Config\Windows</Filter>
     </None>
     <Filter Include="Config\XboxOne">
-      <UniqueIdentifier>{5A352343-800E-430D-A936-230E7B0C4181}</UniqueIdentifier>
+      <UniqueIdentifier>{357BD9A4-720B-4BD7-8D22-2A5E98A5CEB9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
       <Filter>Config\XboxOne</Filter>
     </None>
     <Filter Include="Source\COOPFPS">
-      <UniqueIdentifier>{942F1252-47D1-4184-B369-60A0DF89DDC3}</UniqueIdentifier>
+      <UniqueIdentifier>{CD70C778-7F27-44E7-916B-BBFF980CCA8C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\COOPFPS\COOPFPS.Build.cs">
       <Filter>Source\COOPFPS</Filter>
@@ -89,23 +92,23 @@
     <ClInclude Include="..\..\Source\COOPFPS\COOPFPSGameModeBase.h">
       <Filter>Source\COOPFPS</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <Filter Include="Source\COOPFPS\Public">
-      <UniqueIdentifier>{fd01d136-fc11-4df5-807d-6a3045574d8a}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source\COOPFPS\Private">
-      <UniqueIdentifier>{7fb78f44-a574-45ad-96b2-4038e7f4a344}</UniqueIdentifier>
+      <UniqueIdentifier>{B6FFCEC7-28AC-441B-8B2F-58C475DD1968}</UniqueIdentifier>
     </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\COOPFPS\Public\SCharacter.h">
-      <Filter>Source\COOPFPS\Public</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="..\..\Source\COOPFPS\Private\SCharacter.cpp">
       <Filter>Source\COOPFPS\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\COOPFPS\Private\SWeapon.cpp">
+      <Filter>Source\COOPFPS\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\COOPFPS\Public">
+      <UniqueIdentifier>{1F8BC73A-1D4B-4FF7-988E-4AAC7BFFE1F0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\COOPFPS\Public\SCharacter.h">
+      <Filter>Source\COOPFPS\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\COOPFPS\Public\SWeapon.h">
+      <Filter>Source\COOPFPS\Public</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
